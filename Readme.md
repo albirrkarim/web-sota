@@ -4,7 +4,7 @@ State of the art mean the latest, cost effective, trends.
 
 I divide State of The Art (SOTA) into few category that divide the kind of web you want to build:
 
-1. Landing Page, Information Page, Blog.
+# Landing Page, Information Page, Blog.
 
 You want just simple web, few amazing web front-end. few creativity.
 
@@ -14,7 +14,7 @@ Just use:
 - Shopify
 - Blogger
 
-2. High Costumization, High Creativity, High Skill, High Cost
+# High Costumization, High Creativity, High Skill, High Cost
 
 Use:
 
