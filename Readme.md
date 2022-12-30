@@ -19,7 +19,7 @@ Use:
 - Shopify
 - Blogger
 
-# Application Web
+# Web Application
 
 Characteristic:
 
@@ -31,22 +31,24 @@ Characteristic:
 
 Use:
 
-## React js
+### React js
 
 With massive adaption in this framework, available alot of NPM library to help your development.
 
-## Typescript
+### Typescript
 
 For knowing what data type (integer,string,etc..) variable in javacript.
 
-## [React Three js](https://github.com/pmndrs/react-three-fiber)
+### React Three js
+
+[see](https://github.com/pmndrs/react-three-fiber)
 
 Animation and 3D object on the web is required these days. user will leave your website if in first 5 seconds interaction with your website not make user impressed. boring website.
 
 How about heavy load? 3D and animation require large js and 3d assets. but in this era 4G it doesn't matter.
 or you can using lazy load technic. using [react lazy and suspense](https://reactjs.org/docs/react-api.html#reactlazy)
 
-## Laravel
+### Laravel
 
 PHP not die, Laravel keep updating. per six months comes with latest development methodology.
 
