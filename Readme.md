@@ -1,10 +1,12 @@
+# State of the art web development
+
 This is some notes about my experience and research on web development.
 
 State of the art mean the latest, cost effective, trends.
 
 I divide State of The Art (SOTA) into few category that divide the kind of web you want to build:
 
-# Landing Page, Information Page, Blog
+## Landing Page, Information Page, Blog
 
 Characteristic:
 
@@ -19,7 +21,7 @@ Use:
 - Shopify
 - Blogger
 
-# Web Application
+## Web Application
 
 Characteristic:
 
@@ -55,6 +57,6 @@ PHP not die, Laravel keep updating. per six months comes with latest development
 <br>
 <br>
 
-# Trends (2023)
+## Trends (2023)
 
 Glass Transparent Effect, gradient background, micro animation, 3D web
