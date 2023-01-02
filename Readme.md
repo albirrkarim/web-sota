@@ -54,6 +54,11 @@ or you can using lazy load technic. using [react lazy and suspense](https://reac
 
 PHP not die, Laravel keep updating. per six months comes with latest development methodology.
 
+
+### Tailwind
+
+This is famous css framework
+
 <br>
 <br>
 
