@@ -59,7 +59,9 @@ or you can using lazy load technic. using [react lazy and suspense](https://reac
 PHP not die, Laravel keep updating. per six months comes with latest development methodology.
 
 ### Tailwind
-![Tailwind](./img/Tailwind_CSS_logo.svg.png)
+
+![Tailwind](./img/tailwind.png)
+
 This is famous css framework
 
 ### Material UI
@@ -79,4 +81,10 @@ From MUI description:
 
 ## Trends (2023)
 
-Glass Transparent Effect, gradient background, micro animation, 3D web
+**Glass Transparent Effect**, Will make the ui fresh
+
+**Soft gradient background**, Represent fresh, fun, Artificial Intelligence.
+
+**Micro animation**, Make every detail in the app cool
+
+**3D web**, Imersive
