@@ -60,7 +60,7 @@ PHP not die, Laravel keep updating. per six months comes with latest development
 
 ### Tailwind
 
-![Tailwind](./img/tailwind.png)
+![Tailwind](./img/tailwind_web.png)
 
 This is famous css framework
 
