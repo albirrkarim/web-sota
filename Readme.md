@@ -6,7 +6,7 @@ State of the art mean the latest, cost effective, trends.
 
 I divide State of The Art (SOTA) into few category that divide the kind of web you want to build:
 
-## Landing Page, Information Page, Blog
+## A. Landing Page, Information Page, Blog
 
 Characteristic:
 
@@ -21,7 +21,7 @@ Use:
 - Shopify
 - Blogger
 
-## Web Application
+## B. Web Application
 
 Characteristic:
 
@@ -35,11 +35,11 @@ Use:
 
 ### React js
 
-With massive adaption in this framework, available alot of NPM library to help your development.
+With massive adaption in this framework, available alot of NPM library to help your development. [readmore](https://reactjs.org/)
 
 ### Typescript
 
-For knowing what data type (integer,string,etc..) variable in javacript.
+For knowing what data type (integer,string,etc..) variable in javacript. [readmore](https://www.typescriptlang.org/)
 
 ### React Three js
 
